@@ -1,0 +1,1 @@
+# Utilized collected data on customers income from different countries and analyzed customer occupations with the use of Power BI.
